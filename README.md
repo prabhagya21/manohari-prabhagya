@@ -1,31 +1,75 @@
-## Hi, I'm Manohari 👋
-
-🎓 BSc in Information Technology Undergraduate  
-💻 Web & Software Development Enthusiast  
-📚 Java | PHP | Laravel | MySQL | HTML | CSS  
-🛠 Academic & Mini Projects  
-
-## 💻 Programming Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-</p>
+## Hi, I'm Manohari   Prabhagya👋
 
 
-### 🔹 Projects
-- QR Code Attendance System  
-- Recipe Book Website  
-- cosmetic website  
-- Learning Management System  
+🎓 Final Year BSc (Hons) in Information Technology Undergraduate
+💻 AI & Software Development Enthusiast
 
-### 🔹 Currently Learning
-- Advanced Java  
-- Laravel Framework  
-- Database Design  
 
-📍 Sri Lanka
+
+👩‍💻 About Me
+
+- 🎓 Final Year IT Undergraduate at SIBA Campus
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently learning React, TypeScript, Laravel & AI Technologies
+- 🎯 Looking for Software Engineering / AI Internship Opportunities
+
+
+
+🛠 Tech Stack
+
+Programming Languages
+- Python
+- Java
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+
+Frameworks & Libraries
+- Laravel
+- Bootstrap
+- Hugging Face
+- Scikit-learn
+- OpenCV
+- MediaPipe
+
+Database
+- MySQL
+
+ Tools
+- Git
+- GitHub
+- VS Code
+- XAMPP
+
+
+
+🚀 Featured Projects
+
+🤖 AI Chatbot using Hugging Face
+An intelligent chatbot powered by NLP and Hugging Face Transformers.
+
+📱 SMS Spam Detection System
+Machine Learning application using TF-IDF & Naive Bayes.
+
+✋ AI Gesture Drawing Application
+Real-time virtual drawing using OpenCV & MediaPipe.
+
+✅ QR Attendance Management System
+Laravel-based attendance management system with QR authentication.
+
+🌐 Digital Promotion Website
+Responsive website developed using PHP & MySQL.
+
+
+
+📫 Connect with Me
+
+📧 Email: mprabhagya@gmail.com
+
+🔗 LinkedIn:
+linkedin.com/in/manohari-prabhagya
+
+💻 GitHub:
+github.com/prabhagya21
