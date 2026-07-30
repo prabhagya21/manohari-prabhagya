@@ -49,6 +49,7 @@ Database
 
 🤖 AI Chatbot using Hugging Face
 An intelligent chatbot powered by NLP and Hugging Face Transformers.
+https://huggingface.co/spaces/prabhagya/AI-CHAT-BOT
 
 📱 SMS Spam Detection System
 Machine Learning application using TF-IDF & Naive Bayes.
